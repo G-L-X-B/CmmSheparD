@@ -2,7 +2,7 @@
 
 ### `$ whoami`
 
-My name is Gleb Ustinov, and I am yet another CS student on the verge of dropout, and I am interested in applying my skills to creating useful tools and not provoking machine uprising in the process. Here you will find projects that I'm most proud of, aside from some sketches and drafts.
+My name is Gleb Ustinov, and I am just yet another CS student on the verge of dropout. As a beginning software engineer I am interested in applying my skills to creating useful tools and not provoking machine uprising in the process. Here you will find projects that I'm most proud of, aside from some sketches and drafts.
 
 ### `$ git clone git@github.com:CmmSheparD/most-interesting.git`
 
@@ -16,7 +16,7 @@ A simple game that plays itself written in **C** with the help of **ncurses**. I
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CmmSheparD&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-As my first language was **C++** I like low-level programming, but still never miss a chance to try out something different. Here comes my subtle acquaintance with **python**. I'm currently learning **Kotlin/JVM** and, as a consequence, **Java** ~~omg i hate **gradle** so much why is it so messed up~~.
+With my first language being **C++**, I like low-level programming, but still never miss a chance to try out something different. Here comes my subtle acquaintance with **python**. I'm currently learning **Kotlin/JVM** and, as a consequence, **Java** ~~omg i hate **gradle** so much why is it so messed up~~.
 
 ### `$ git checkout terrible-at`
 

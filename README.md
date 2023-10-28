@@ -12,15 +12,15 @@ A simple game that plays itself written in **C** with the help of **ncurses**. I
 
 ***More interesting things are coming soon***
 
-### `$ git checkout -b learning`
+### `$ git checkout learning`
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CmmSheparD&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-With my first language being **C++**, I like low-level programming, but still never miss a chance to try out something different. Here comes my subtle acquaintance with **python**. Currently I'm learning **Kotlin/JVM** and, as a consequence, **Java** ~~omg i hate **gradle** so much why is it so messed up~~.
+With my first language being **C++**, I like low-level programming, but still never miss a chance to try out something different. Here comes my subtle acquaintance with **python**. Currently I'm learning **Kotlin/JVM** and, as a consequence, **Java** ~~omg i hate **gradle** so much why is it so messed up~~ well it's actually good once you put at least some effort into learning it.
 
-### `$ git checkout -b terrible-at`
+### `$ git blame`
 
-I'm really bad at visual design or even deciding which of two designs would fit better. But I'mnot going to give up and will continue work on this! Completely not interested in front-end development though.
+I'm really bad at visual design or even deciding which of two designs would fit better. But I'm not going to give up and will continue work on this! Completely not interested in front-end development though.
 
 ### `$ config --global --list`
 ```

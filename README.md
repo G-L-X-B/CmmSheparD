@@ -10,6 +10,10 @@ My name is Gleb Ustinov, and I am just yet another CS student on the verge of dr
 
 A simple game that plays itself written in **C** with the help of **ncurses**. It's a mess rn, but some day I will tidy it up. What I like in the concept of procedural programming is that it allows to build neat and well-knit little programs, where every module was written for a particular purpose. Low code reusability hits hard though, and I doubt my competence to create something large-scale using this paradigm. But this little thing... I love it.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CmmSheparD&repo=gamerate-bot&theme=tokyonight)](https://github.com/CmmSheparD/gamerate-bot)
+
+A **[telegram bot](https://t.me/g4mer4te_bot)** to view, rate and review a small but very precious game titles library. Right now only soulsborne game series is available.
+
 ***More interesting things are coming soon***
 
 ### `$ git checkout learning`

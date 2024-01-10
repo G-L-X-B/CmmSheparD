@@ -45,7 +45,7 @@ I'm really bad at visual design or even deciding which of two designs would fit 
 
 ### `$ user-stats`
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CmmSheparD&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CmmSheparD&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
 ### `$ user-stats --global`
 
